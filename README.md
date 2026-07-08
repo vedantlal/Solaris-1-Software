@@ -4,7 +4,7 @@ Bare-metal embedded firmware application for the STM32H753 microcontroller. Buil
 
 ## Architecture & System Stack
 
-* **Operating System:** FreeRTOS (
+* **Operating System:** FreeRTOS 
 * **Hardware Abstraction:** STM32CubeMX HAL 
 * **Build Generator:** CMake (v3.20+)
 * **Build Engine:** Ninja 
